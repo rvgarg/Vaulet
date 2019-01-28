@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "6109323498",
+    "firebase_url": "https://vaulet-d9f36.firebaseio.com",
+    "project_id": "vaulet-d9f36",
+    "storage_bucket": "vaulet-d9f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6109323498:android:fe91c72c2eec4daf",
+        "android_client_info": {
+          "package_name": "com.example.vaulet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6109323498-1ong0hrf5jkps48o7t70ibiou94t13r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8ViAyj0AkvRKmI4HjCWqSc1sz30Z8LA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
